@@ -6,6 +6,16 @@
   Desafio 1: Conceitos do NodeJS
 </h3>
 
+![](https://img.shields.io/github/package-json/v/IsaPhipho/Rocketseat-desafio01.svg?color=lightsalmon)
+![](https://img.shields.io/github/last-commit/IsaPhipho/Rocketseat-desafio01.svg?color=salmon)
+![](https://img.shields.io/github/languages/top/IsaPhipho/Rocketseat-desafio01.svg?color=darksalmon)
+![](https://img.shields.io/github/languages/count/IsaPhipho/Rocketseat-desafio01.svg?color=coral)
+![](https://img.shields.io/github/languages/code-size/IsaPhipho/Rocketseat-desafio01.svg?color=tomato)
+![](https://img.shields.io/github/repo-size/IsaPhipho/Rocketseat-desafio01.svg?color=red)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?color=lightgrey)](https://github.com/IsaPhipho/Rocketseat-modulo03/blob/master/LICENSE)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
+
 ### :rocket: Sobre o desafio:
 Desenvolvimento de aplicação em [Node.js](https://nodejs.org/en/) para armazenar projetos e suas tarefas, utilizando [Express](https://expressjs.com/pt-br/).
 
